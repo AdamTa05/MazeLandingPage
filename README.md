@@ -17,3 +17,7 @@ make
 This creates the executable file raycast (which is currently in this GitHub repository). Then run this to start up the application:
 
 ./raycast
+
+## Links 
+
+- [Project Landing Page](https://adamtassaft01.wixsite.com/maze-project)
