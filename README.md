@@ -21,3 +21,5 @@ This creates the executable file raycast (which is currently in this GitHub repo
 ## Links 
 
 - [Project Landing Page](https://adamtassaft01.wixsite.com/maze-project)
+- [The Maze Project Blog Post](https://medium.com/@adamtassaft01/the-maze-project-blog-post-ddd9920de622)
+- [LinkedIn](https://www.linkedin.com/in/adam-tassaft-ab1407288/)
